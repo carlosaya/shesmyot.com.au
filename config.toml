@@ -14,7 +14,7 @@ theme = "hugo-elate-theme"
   email = "jess@shesmyot.com.au"
 
   # Google Maps Javascript API Key (if not set will default to not passing a key)
-  googleMapsApiKey = ""
+  googleMapsApiKey = "AIzaSyDRyBNMdqcHvIhp_gtEkBOwsU5oBKVg3Wg"
 
   # Navigation
   [params.navigation]
