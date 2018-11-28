@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "shesmyot.com.au"
 title = "She's My OT"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
