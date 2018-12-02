@@ -22,7 +22,7 @@ social = [["icon-linkedin", "#"]]
 [params.contact]
 button = "Send message"
 description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-details = [["icon-clock", "Hours:  W-F, 9a-3p"], ["icon-phone", "+61 412 345 678"], ["icon-envelope", "jess@shesmyot.com.au"], ["icon-globe", "<a href=\"https://shesmyot.com.au/\" target=\"_blank\">shesmyot.com.au</a>"], ["icon-home", "P.O. Box 145, Samford Village, QLD 4520"]]
+details = [["icon-clock", "Hours:  M-W, 9a-3p"], ["icon-phone", "+61 402 444 890"], ["icon-envelope", "jess@shesmyot.com.au"], ["icon-globe", "<a href=\"https://shesmyot.com.au/\" target=\"_blank\">shesmyot.com.au</a>"], ["icon-home", "P.O. Box 145, Samford Village, QLD 4520"]]
 email = "Email"
 enable = true
 form = true
