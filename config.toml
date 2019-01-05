@@ -71,7 +71,7 @@ links = []
 subtitle = "Occupational Therapy"
 title = "Logo"
 [[params.intro.item]]
-description = "<b>Initial Assessment</b> - $195<br><b>Follow-up</b> - $130<br><b>Travel</b> - $7 per 15 minutes traveled<br><br><i>Cancellations received after 2pm the day prior to your appointment will be charged at 90% of the fee.</i> "
+description = "<b>Initial Assessment</b> - $195 +GST<br><b>Follow-up</b> - $130 +GST<br><b>Travel</b> - $7 per 15 minutes traveled<br><br><i>Cancellations received after 2pm the day prior to your appointment will be charged at 90% of the fee.<br>DVA Health Cards (Gold and White) are accepted as payment upon a GP referral.</i>"
 icon = "icon-credit-card"
 img = "img_7.jpg"
 title = "Fees"
