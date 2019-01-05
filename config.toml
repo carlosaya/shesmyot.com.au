@@ -14,23 +14,23 @@ enable = true
 title = "About"
 [[params.about.item]]
 alt = "Jessica Aya"
-description = "You're the best arouuuuuund - nothings ever gonna take you down!"
+description = "Jess is an extremely passionate OT who puts her client's well-being above all else and is going into her 15th year as an Occupational Therapist since gradutating from James Cook University in 2004.  She has worked in a variety of settings including Acute Care (ICU, Orthopaedics, Amputees, Neuro, and Oncology), Outpatient Rehabilitation (Lymphoedema, Upper-limb / hands), and Community Health."
 img = "jess-circle.png"
 name = "Jessica Aya"
 position = "Occupational Therapist"
 social = [["icon-linkedin", "#"]]
 [params.contact]
 button = "Send message"
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+description = "Please contact me via any of the methods below with any question big or small."
 details = [["icon-clock", "Hours:  M-W, 9a-3p"], ["icon-phone", "+61 402 444 890"], ["icon-envelope", "jess@shesmyot.com.au"], ["icon-globe", "<a href=\"https://shesmyot.com.au/\" target=\"_blank\">shesmyot.com.au</a>"], ["icon-home", "P.O. Box 145, Samford Village, QLD 4520"]]
 email = "Email"
 enable = true
-form = true
+form = false
 map = true
 message = "Message"
 name = "Name"
 phone = "Phone"
-title = "Get in touch"
+title = "Got Questions?"
 [params.counters]
 background = "full_image_1.jpg"
 enable = true
@@ -104,22 +104,22 @@ title = "Home Modifications"
 description = "As a certified Lymphoedema Therapist, I can work with your GP to assist in the management of your Lymphoedema through the treatment protocol of manual lymphatic drainage, bandaging, and compression garment prescriptions."
 icon = "icon-drop"
 title = "Lymphoedema Treatment and Management"
-[params.testimonials]
-description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
-enable = true
-title = "Testimonials"
-[[params.testimonials.item]]
-alt = "Person1"
-img = "person1.jpg"
-person = "Jean Doe, CEO <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
-quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
-[[params.testimonials.item]]
-alt = "Person2"
-img = "person2.jpg"
-person = "John Doe, Senior UI <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
-quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
-[[params.testimonials.item]]
-alt = "Person3"
-img = "person3.jpg"
-person = "Chris Nash, Director <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
-quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
+# [params.testimonials]
+# description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+# enable = true
+# title = "Testimonials"
+# [[params.testimonials.item]]
+# alt = "Person1"
+# img = "person1.jpg"
+# person = "Jean Doe, CEO <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
+# quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;"
+# [[params.testimonials.item]]
+# alt = "Person2"
+# img = "person2.jpg"
+# person = "John Doe, Senior UI <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
+# quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.&rdquo;"
+# [[params.testimonials.item]]
+# alt = "Person3"
+# img = "person3.jpg"
+# person = "Chris Nash, Director <a href=\"http://freehtml5.co/\" target=\"_blank\">FREEHTML5.co</a> <span class=\"subtext\">Creative Director</span>"
+# quote = "&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. &rdquo;"
