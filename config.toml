@@ -18,7 +18,7 @@ description = "Jess is an extremely passionate OT who puts her client's well-bei
 img = "jess-circle.png"
 name = "Jessica Aya"
 position = "Occupational Therapist<br>James Cook University, 2004"
-social = [["icon-linkedin", "#"]]
+social = [["icon-linkedin", "https://www.linkedin.com/in/jessicaaya"]]
 [params.contact]
 button = "Send message"
 description = "Please contact me via any of the methods below with any question big or small."
