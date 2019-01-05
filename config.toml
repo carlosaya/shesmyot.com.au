@@ -21,7 +21,7 @@ position = "Occupational Therapist<br>James Cook University, 2004"
 social = [["icon-linkedin", "https://www.linkedin.com/in/jessicaaya"]]
 [params.contact]
 button = "Send message"
-description = "Please contact me via any of the methods below with any question big or small."
+description = "Please feel free to contact me via any of the methods below with any question big or small."
 details = [["icon-clock", "Hours:  M-W, 9a-3p"], ["icon-phone", "+61 402 444 890"], ["icon-envelope", "jess@shesmyot.com.au"], ["icon-globe", "<a href=\"https://shesmyot.com.au/\" target=\"_blank\">shesmyot.com.au</a>"], ["icon-home", "P.O. Box 145, Samford Village, QLD 4520"]]
 email = "Email"
 enable = true
