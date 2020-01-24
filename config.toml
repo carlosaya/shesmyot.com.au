@@ -7,7 +7,7 @@ author = ""
 custom_css = ["css/custom1.css", "css/custom2.css"]
 description = ""
 email = "jess@shesmyot.com.au"
-googleMapsApiKey = "AIzaSyDRyBNMdqcHvIhp_gtEkBOwsU5oBKVg3Wg"
+googleMapsApiKey = "AIzaSyD5488jtih9neHSUuD8upfwrQRvigzJGDM"
 [params.about]
 description = "There is nothing like staying at home for real comfort. --Jane Austen"
 enable = true
