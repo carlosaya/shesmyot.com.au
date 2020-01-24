@@ -7,7 +7,7 @@ author = ""
 custom_css = ["css/custom1.css", "css/custom2.css"]
 description = ""
 email = "jess@shesmyot.com.au"
-googleMapsApiKey = "AIzaSyDRyBNMdqcHvIhp_gtEkBOwsU5oBKVg3Wg"
+googleMapsApiKey = "AIzaSyDRyBNMdqcHvIhp_gtEkBOwsU5oBKVg3Wgg"
 [params.about]
 description = "There is nothing like staying at home for real comfort. --Jane Austen"
 enable = true
@@ -70,12 +70,12 @@ links = []
 [params.hero]
 subtitle = "Occupational Therapy"
 title = "Logo"
-# [[params.intro.item]]
-# description = "<b><u>Home Care Package Pricing</u><br>Initial Assessment</b> - $195 +GST<br><b>Follow-up</b> - $130 +GST<br><b>Travel</b> - $7 per 15 minutes traveled<br><br><b><u>DVA Pricing</u></b><br><i>DVA Health Cards (Gold and White) are accepted as payment upon a GP referral.</i><br><br><u><b>NDIS Pricing</b></u><br><i>Please contact for details<br><br>Cancellations received after 2pm the day prior to your appointment will be charged at 90% of the fee.</i>"
-# icon = "icon-credit-card"
-# img = "img_7.jpg"
-# title = "Fees"
-# url = "#"
+[[params.intro.item]]
+description = "<b><u>Home Care Package Pricing</u><br>Initial Assessment</b> - $195 +GST<br><b>Follow-up</b> - $130 +GST<br><b>Travel</b> - $7 per 15 minutes traveled<br><br><b><u>DVA Pricing</u></b><br><i>DVA Health Cards (Gold and White) are accepted as payment upon a GP referral.</i><br><br><u><b>NDIS Pricing</b></u><br><i>Please contact for details<br><br>Cancellations received after 2pm the day prior to your appointment will be charged at 90% of the fee.</i>"
+icon = "icon-credit-card"
+img = "img_7.jpg"
+title = "Fees"
+url = "#"
 [params.navigation]
 about = "About"
 brand = ""
