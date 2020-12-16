@@ -1,7 +1,7 @@
 baseurl = "shesmyot.com.au"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
-title = "She's My OT"
+title = "She's My OT!"
 [params]
 author = ""
 custom_css = ["css/custom1.css", "css/custom2.css"]
