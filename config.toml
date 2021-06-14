@@ -100,3 +100,7 @@ title = "Home Modifications"
 description = "As a certified Lymphoedema Therapist, I can work with your GP to assist in the management of your Lymphoedema through the treatment protocol of manual lymphatic drainage, bandaging, and compression garment prescriptions."
 icon = "icon-drop"
 title = "Lymphoedema Treatment and Management"
+[params.work]
+enable = false
+[params.testimonials]
+enable = false
