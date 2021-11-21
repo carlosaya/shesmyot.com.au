@@ -13,12 +13,11 @@ description = "There is nothing like staying at home for real comfort. --Jane Au
 enable = true
 title = "About"
 [[params.about.item]]
-alt = "Jessica Aya"
+alt = "Jessica"
 description = "Jess is an extremely passionate OT who puts her client's well-being above all else and is going into her 17th year as an Occupational Therapist.  She has worked in a variety of settings including Acute Care (ICU, Orthopaedics, Amputees, Neuro, and Oncology), Outpatient Rehabilitation (Lymphoedema, Upper-limb / hands), and Community Health."
 img = "jess-circle.png"
-name = "Jessica Aya"
+name = "Jessica"
 position = "Occupational Therapist<br>James Cook University, 2004"
-social = [["icon-linkedin", "https://www.linkedin.com/in/jessicaaya"]]
 [params.contact]
 button = "Send message"
 description = "Please feel free to contact me via any of the methods below with any question big or small."
