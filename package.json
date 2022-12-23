@@ -1,0 +1,25 @@
+{
+  "name": "shesmyot.com.au",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosaya/shesmyot.com.au.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosaya/shesmyot.com.au/issues"
+  },
+  "homepage": "https://github.com/carlosaya/shesmyot.com.au#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.0.5",
+    "tinacms": "^1.1.2"
+  }
+}
