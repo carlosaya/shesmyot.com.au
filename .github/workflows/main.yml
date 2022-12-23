@@ -39,8 +39,6 @@ jobs:
           envsubst < ./.tina/config.js > ./.tina/config.js.update
           rm ./.tina/config.js
           mv ./.tina/config.js.update ./.tina/config.js
-          cat ./.tina/config.js
-          env
           npm install
           npm run build
 
