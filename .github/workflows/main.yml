@@ -36,7 +36,9 @@ jobs:
           TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
         run: |
-          envsubst < ./.tina/config.js
+          envsubst < ./.tina/config.js > ./.tina/config.js.update
+          rm ./.tina/config.js
+          mv ./.tina/config.js.update ./.tina/config.js
           cat ./.tina/config.js
           npm install
           npm run build
