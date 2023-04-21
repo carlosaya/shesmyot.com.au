@@ -1,0 +1,26 @@
+enable = true
+button = "Send message"
+description = "Please feel free to contact me via any of the methods below with any question big or small."
+# details = [["icon-clock", "Hours:  M-W, 9a-3p"], ["icon-phone", "+61 402 444 890"], ["icon-envelope", "jess@shesmyot.com.au"], ["icon-globe", "<a href=\"https://shesmyot.com.au/\" target=\"_blank\">shesmyot.com.au</a>"], ["icon-home", "P.O. Box 145, Samford Village, QLD 4520"]]
+email = "Email"
+form = true
+map = true
+message = "Message"
+name = "Name"
+phone = "Phone"
+title = "Got Questions?"
+[[details]]
+icon = "icon-clock" 
+text = "Hours:  M-W, 9a-3p"
+[[details]]
+icon = "icon-phone" 
+text = "+61 402 444 890"
+[[details]]
+icon = "icon-envelope" 
+text = "jess@shesmyot.com.au"
+[[details]]
+icon = "icon-globe" 
+text = "<a href=\"https://shesmyot.com.au/\" target=\"_blank\">shesmyot.com.au</a>"
+[[details]]
+icon = "icon-home" 
+text = "P.O. Box 145, Samford Village, QLD 4520"

@@ -5,9 +5,9 @@
 				<div class="text-inner">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2">
-							<!-- <h1 class="to-animate">{{ with .Site.Params.hero.title }}{{ . | markdownify }}{{ end }}</h1> -->
+							<!-- <h1 class="to-animate">{{ with .Site.Data.config.hero.title }}{{ . | markdownify }}{{ end }}</h1> -->
 							<img src="./images/logo.svg" width=100% vertical-align="top"></img>
-							<h2 class="to-animate">{{ with .Site.Params.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2>
+							<h2 class="to-animate">{{ with .Site.Data.config.hero.subtitle }}{{ . | markdownify }}{{ end }}</h2>
 						</div>
 					</div>
 				</div>

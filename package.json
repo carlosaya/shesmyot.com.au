@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D\"",
-    "build": "tinacms build && hugo --minify"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,7 +18,7 @@
   },
   "homepage": "https://github.com/carlosaya/shesmyot.com.au#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.0.5",
-    "tinacms": "^1.1.2"
+    "@tinacms/cli": "^1.5.6",
+    "tinacms": "^1.4.6"
   }
 }

@@ -1,0 +1,33 @@
+---
+label: Blog Template
+hide_body: false
+fields:
+- type: text
+  default: ''
+  label: Title for your blog post
+  name: title
+  config:
+    required: true
+  hidden: false
+- name: banner
+  type: file
+  config:
+    maxSize: 64
+  label: Banner Image
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
+pages:
+- content/blog/candk-conference-2018.md
+- content/devwl.md
+- content/enrol.md
+- content/facilities.md
+- content/program.md
+- content/waiting-listv2.md

@@ -1,0 +1,19 @@
+enable = true
+description = "Providing person-centered, in-home Occupational Therapy services with ♥"
+title = "Services"
+[[item]]
+description = "Your OT will complete an initial assessment and followup interventions to prevent falls, increase accessibility, and to promote and maintain your independence at home."
+icon = "icon-home"
+title = "Home Safety Assessments"
+[[item]]
+description = "After your initial assessment, recommedations may be made for equipment to enable you to keep living the life you wish to live.  Utilizing a range of equipment suppliers allows me to ensure you get the right piece of equipment for YOU."
+icon = "icon-puzzle"
+title = "Adaptive Equipment"
+[[item]]
+description = "Feeling unsafe in the shower?  Can't get that walker up and over that door threshold?  There's a rail and ramp for that!  I can prescribe home modifications and refer to your local Home Assist, or a qualified mobility and access builder."
+icon = "icon-wrench"
+title = "Home Modifications"
+[[item]]
+description = "As a certified Lymphoedema Therapist, I can work with your GP to assist in the management of your Lymphoedema through the treatment protocol of manual lymphatic drainage, bandaging, and compression garment prescriptions."
+icon = "icon-drop"
+title = "Lymphoedema Treatment and Management"

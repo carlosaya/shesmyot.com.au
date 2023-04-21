@@ -1,0 +1,24 @@
+author = ""
+custom_css = ["css/custom1.css", "css/custom2.css"]
+description = ""
+email = "jess@shesmyot.com.au"
+googleMapsApiKey = "AIzaSyD5488jtih9neHSUuD8upfwrQRvigzJGDM"
+workEnable = false
+testimonialsEnable = false
+[footer]
+enable = true
+copyright = "&copy; She's My OT.  All Rights Reserved."
+links = []
+[hero]
+title = "Logo"
+subtitle = "Occupational Therapy"
+[intro]
+item = []
+[navigation]
+about = "About"
+brand = ""
+contact = "Contact"
+home = "Home"
+services = "Services"
+testimonials = "Testimonials"
+work = "Work"

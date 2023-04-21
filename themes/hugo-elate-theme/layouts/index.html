@@ -20,38 +20,38 @@
 
 		{{ partial "hero.html" .}}
 		
-		{{ if .Site.Params.about.enable }}
+		{{ if .Site.Data.config.about.enable }}
         	{{ partial "about.html" .}}
 		{{ end }}
 		
 		<!-- {{ partial "intro.html" .}} -->
 
 
-		{{ if .Site.Params.services.enable }}
+		{{ if .Site.Data.config.services.enable }}
 		{{ partial "services.html" .}}
 	{{ end }}
 
 
-		{{ if .Site.Params.work.enable }}
+		{{ if .Site.Data.config.workEnable }}
        		{{ partial "work.html" .}}
        	{{ end }}
 
-		{{ if .Site.Params.testimonials.enable }}
+		{{ if .Site.Data.config.testimonialsEnable }}
         	{{ partial "testimonials.html" .}}
 		{{ end }}
 
 
 		
 
-		{{ if .Site.Params.counters.enable }}
+		{{ if .Site.Data.config.counters.enable }}
         	{{ partial "counters.html" .}}
         {{ end }}
 
-		{{ if .Site.Params.contact.enable }}
+		{{ if .Site.Data.config.contact.enable }}
         	{{ partial "contact.html" .}}
         {{ end }}
 
-        {{ if .Site.Params.footer.enable }}
+        {{ if .Site.Data.config.footer.enable }}
         	{{ partial "footer.html" .}}
         {{ end }}
 

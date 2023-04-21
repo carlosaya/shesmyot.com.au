@@ -1,0 +1,31 @@
+enable = true
+background = "full_image_1.jpg"
+title = "Stats"
+[[item]]
+description = "Years Experience"
+from = 0
+icon = "icon-briefcase"
+interval = 100
+speed = 1500
+to = 15
+[[item]]
+description = "Cups of tea"
+from = 0
+icon = "icon-cup"
+interval = 25
+speed = 15000
+to = 21900
+[[item]]
+description = "Happy Clients"
+from = 0
+icon = "icon-people"
+interval = 50
+speed = 3000
+to = 200
+[[item]]
+description = "Warm Smiles"
+from = 0
+icon = "icon-emotsmile"
+interval = 50
+speed = 7500
+to = 986499
