@@ -263,6 +263,11 @@ export default defineConfig({
             label: "Contact Details",
             type: "object",
             list:true,
+            ui: {
+              itemProps: (item) => {
+                return { label: item?.text };
+              },
+            },
             fields: [
               {
                 name: "icon",
