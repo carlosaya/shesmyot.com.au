@@ -1,31 +1,35 @@
 enable = true
 background = "full_image_1.jpg"
 title = "Stats"
+
 [[item]]
 description = "Years Experience"
-from = 0
 icon = "icon-briefcase"
+from = 0
+to = 18
 interval = 100
-speed = 1500
-to = 15
+speed = 1_500
+
 [[item]]
 description = "Cups of tea"
-from = 0
 icon = "icon-cup"
+from = 0
+to = 21_900
 interval = 25
-speed = 15000
-to = 21900
+speed = 15_000
+
 [[item]]
 description = "Happy Clients"
-from = 0
 icon = "icon-people"
-interval = 50
-speed = 3000
+from = 0
 to = 200
+interval = 50
+speed = 3_000
+
 [[item]]
 description = "Warm Smiles"
-from = 0
 icon = "icon-emotsmile"
+from = 0
+to = 986_499
 interval = 50
-speed = 7500
-to = 986499
+speed = 7_500
