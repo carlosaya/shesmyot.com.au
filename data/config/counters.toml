@@ -6,7 +6,7 @@ title = "Stats"
 description = "Years Experience"
 icon = "icon-briefcase"
 from = 0
-to = 18
+to = 19
 interval = 100
 speed = 1_500
 
