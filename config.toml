@@ -1,4 +1,6 @@
-baseurl = "shesmyot.com.au"
+baseurl = "https://shesmyot.com.au/"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 title = "She's My OT"
+[markup.goldmark.renderer]
+unsafe = true
