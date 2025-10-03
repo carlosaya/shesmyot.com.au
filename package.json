@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tinacms build",
+    "dev": "tinacms dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +20,7 @@
   },
   "homepage": "https://github.com/carlosaya/shesmyot.com.au#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.7.0",
-    "tinacms": "^2.5.2"
+    "@tinacms/cli": "^1.11.0",
+    "tinacms": "^2.9.0"
   }
 }
